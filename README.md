@@ -22,6 +22,8 @@
 # Infrastructure
 1. [Docker from 0 to 100%. All you need to know](https://www.youtube.com/watch?v=O8N1lvkIjig) (in Russian)
 2. [Docker for the beginners - full course](https://www.youtube.com/watch?v=n9uCgUzfeRQ) (in Russian)
+3. [Docker in 20 minutes](https://www.youtube.com/watch?v=Z_cUS7kCAsE) (in Russian)
+4. [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 # Concurrency
 1. [[s5 | 2024] Parallel programming, Nikita Koval, lecture 3](https://www.youtube.com/watch?v=WgO6CCHsrXo) (in Russian)
@@ -29,10 +31,18 @@
 # Machine learning
 ## Algorithms
 1. [All Machine Learning algorithms explained in 17 min](https://www.youtube.com/watch?v=E0Hmnixke2g)
+2. [All Learning Algorithms Explained in 14 Minutes](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
 
 ## LLM
+### Basic
 1. [How large language models work, a visual intro to transformers | Chapter 5, Deep Learning](https://www.youtube.com/watch?v=wjZofJX0v4M)
 2. [Attention in transformers, visually explained | Chapter 6, Deep Learning](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+
+### Learning
+1. [How we built “Mistral 7B Fine-Tune Optimized,” the best 7B model for fine-tuning](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized)
+
+### Quantization
+1. [Quantization Deep Dive, or Introduction to modern quantization](https://habr.com/ru/companies/yandex/articles/800945/) (in Russian)
 
 # GameDev
 1. [Full course. From zero to game creation on Unity and C# 2024](https://www.youtube.com/watch?v=yIZERKz3OnU) (in Russian)
