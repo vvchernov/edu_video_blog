@@ -9,8 +9,9 @@
 2. [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 
 ## Architecture
-1. [Clean architecture (for projects of any sizes, principles, thinking style)](https://www.youtube.com/watch?v=WlCDcr8JYFU) (in Russian)
-2. [How to developed the best pet-project | Backend architecture in 1 hour](https://www.youtube.com/watch?v=8j29aAbtYWo) (in Russian)
+1. [Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4)
+2. [Clean architecture (for projects of any sizes, principles, thinking style)](https://www.youtube.com/watch?v=WlCDcr8JYFU) (in Russian)
+3. [How to developed the best pet-project | Backend architecture in 1 hour](https://www.youtube.com/watch?v=8j29aAbtYWo) (in Russian)
 
 ## Programming languages
 1. [Create your own PROGRAMMING LANGUAGE. Lexer, Parser, Abstract Syntax Tree (AST)](https://www.youtube.com/watch?v=Ezt3vBok5_s&list=PL6DxKON1uLOFQT7dzQH72cJip7i2sFzxw) (in Russian)
