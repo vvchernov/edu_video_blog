@@ -21,10 +21,14 @@
 2. [What is Rest API (http)? Soap? GraphQL? Websockets? RPC (gRPC, tRPC). Client - Server. All Theory](https://www.youtube.com/watch?v=XaTwnKLQi4A) (in Russian)
 
 # Infrastructure
+## Docker
 1. [Docker from 0 to 100%. All you need to know](https://www.youtube.com/watch?v=O8N1lvkIjig) (in Russian)
 2. [Docker for the beginners - full course](https://www.youtube.com/watch?v=n9uCgUzfeRQ) (in Russian)
 3. [Docker in 20 minutes](https://www.youtube.com/watch?v=Z_cUS7kCAsE) (in Russian)
-4. [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
+4. [Docker for the beginners for 1 hour | Docker from scratch](https://www.youtube.com/watch?v=lr1rYnUubpQ) (in Russian)
+
+## Other
+1. [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 # Concurrency
 1. [[s5 | 2024] Parallel programming, Nikita Koval, lecture 3](https://www.youtube.com/watch?v=WgO6CCHsrXo) (in Russian)
