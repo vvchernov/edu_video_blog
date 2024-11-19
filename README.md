@@ -17,8 +17,18 @@
 1. [Create your own PROGRAMMING LANGUAGE. Lexer, Parser, Abstract Syntax Tree (AST)](https://www.youtube.com/watch?v=Ezt3vBok5_s&list=PL6DxKON1uLOFQT7dzQH72cJip7i2sFzxw) (in Russian)
 
 # Frameworks
+## LLVM
+1. [LLVM IR training at Intel (in Russian)](https://www.youtube.com/watch?v=YWwNIbOaH8U) (in Russian)
+2. [Clang internals](https://www.youtube.com/watch?v=WeA29bNSPe4&t=0s) (in Russian)
+3. [Writing an LLVM pass](https://laure.gonnord.org/pro/research/ER03_2015/lab3_intro.pdf)
+4. [2019 LLVM Developers’ Meeting: C. Bieneman & K. Barton “How to Contribute to LLVM ”](https://www.youtube.com/watch?v=C5Y977rLqpw)
+5. [LLVM overview](https://habr.com/ru/articles/47878/) (habr article in Russian)
+6. [LLVM inside: how does it work](https://habr.com/ru/articles/101838/) (habr article in Russian)
+7. [Programming language creation with LLVM (translation of Chris Lattner book)](https://habr.com/ru/articles/119850/) (series of habr articles in Russian)
+
+## CUDA
 1. [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
-2. [What is Rest API (http)? Soap? GraphQL? Websockets? RPC (gRPC, tRPC). Client - Server. All Theory](https://www.youtube.com/watch?v=XaTwnKLQi4A) (in Russian)
+
 
 # Infrastructure
 ## Docker
@@ -29,6 +39,7 @@
 
 ## Other
 1. [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
+2. [What is Rest API (http)? Soap? GraphQL? Websockets? RPC (gRPC, tRPC). Client - Server. All Theory](https://www.youtube.com/watch?v=XaTwnKLQi4A) (in Russian)
 
 # Concurrency
 1. [[s5 | 2024] Parallel programming, Nikita Koval, lecture 3](https://www.youtube.com/watch?v=WgO6CCHsrXo) (in Russian)
