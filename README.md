@@ -21,14 +21,14 @@
 1. [LLVM IR training at Intel (in Russian)](https://www.youtube.com/watch?v=YWwNIbOaH8U) (in Russian)
 2. [Clang internals](https://www.youtube.com/watch?v=WeA29bNSPe4&t=0s) (in Russian)
 3. [Writing an LLVM pass](https://laure.gonnord.org/pro/research/ER03_2015/lab3_intro.pdf)
-4. [2019 LLVM Developers’ Meeting: C. Bieneman & K. Barton “How to Contribute to LLVM ”](https://www.youtube.com/watch?v=C5Y977rLqpw)
-5. [LLVM overview](https://habr.com/ru/articles/47878/) (habr article in Russian)
-6. [LLVM inside: how does it work](https://habr.com/ru/articles/101838/) (habr article in Russian)
+4. [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)
+5. [2019 LLVM Developers’ Meeting: C. Bieneman & K. Barton “How to Contribute to LLVM ”](https://www.youtube.com/watch?v=C5Y977rLqpw)
+6. [LLVM overview](https://habr.com/ru/articles/47878/) (habr article in Russian)
 7. [Programming language creation with LLVM (translation of Chris Lattner book)](https://habr.com/ru/articles/119850/) (series of habr articles in Russian)
+8. [LLVM inside: how does it work](https://habr.com/ru/articles/101838/) (deprecated habr article in Russian)
 
 ## CUDA
 1. [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4)
-
 
 # Infrastructure
 ## Docker
